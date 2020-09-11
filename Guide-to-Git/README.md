@@ -1,0 +1,2 @@
+# Version control software (Git) for application in academic research
+Version control is the lab notebook of the digital world: it’s what professionals use to keep track of what they’ve done and to collaborate with other people. The aim of this workshop is to give a general introduction of using Git for version control and to demonstrate how and why this widely used tool can be used in academic research for anything that changes over time or needs to be shared such as software, papers, and small data sets.

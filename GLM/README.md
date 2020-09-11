@@ -1,0 +1,2 @@
+# Process-based lake modeling in R using the General Lake Model
+The aim of this workshop is (1) to give a general introduction to process-based modeling and GLM-AED2; (2) highlight the application of GLM-AED2 in R (glmtools, GLM3r, LakeEnsemblR); and (3) applying the model to a real-world case, e.g. model calibration, output post-processing and interpreting water quality results. This workshop is intended for all skill levels, although prior knowledge of R is helpful. 

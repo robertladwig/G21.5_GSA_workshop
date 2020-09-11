@@ -1,0 +1,3 @@
+# Simple guidelines for scientific writing and communication
+Our careers and our science depend on our ability to write effectively. Well-written papers motivate others to read our work, recognize its message, and integrate that message into our collective scientific understanding. However, many scientists are under-trained in how to write effectively. This workshop will present a few simple guidelines to help us write well-structured manuscripts that get published sooner and cited more often. The workshop will also include “hands-on” activities using examples of your own writing and/or examples from published literature. 
+

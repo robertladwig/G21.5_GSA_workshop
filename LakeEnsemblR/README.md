@@ -1,0 +1,2 @@
+# Ensemble lake modelling with LakeEnsemblR
+A guided walkthrough of the new R package “LakeEnsemblR” that has been developed within the GLEON modelling group. Learn how to set up multiple lake models for your lake physical system, how to calibrate your models and explore model uncertainty. Brainstorming of further ideas for how this package can be applied to aid further research. Everyone is welcome to attend, but the workshop is mostly aimed at people with at least some experience in lake modelling. 
