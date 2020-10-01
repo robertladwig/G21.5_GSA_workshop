@@ -1,4 +1,5 @@
 # Process-based lake modeling in R using GLM (General Lake Model)
+<a href="url"><img src="GLM_hex.png" align="right" height="220" width="220" ></a>
 
 -----
 
