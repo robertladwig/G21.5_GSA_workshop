@@ -6,7 +6,8 @@
 :spiral_calendar: October 14, 2020  
 :alarm_clock:     09:30 - 12:00 CDT  
 :busts_in_silhouette: Robert Ladwig, Aryan Adhlakha, Hilary Dugan & Paul Hanson    
-:computer: [Material](https://github.com/robertladwig/GLM_workshop)  
+:computer: [Material](https://github.com/robertladwig/GLM_workshop) 
+:open_book: [Presentation](https://github.com/gsagleon/G21.5_GSA_workshop/blob/master/GLM/GLM_workshop.pdf)
 
 -----
 
@@ -16,7 +17,7 @@ The aim of this workshop is (1) to give a general introduction to process-based 
 
 ## What will this workshop cover?
 
-Introduction to process-based lake modeling:
+Introduction to process-based lake modeling (get the slides [here](https://github.com/gsagleon/G21.5_GSA_workshop/blob/master/GLM/GLM_workshop.pdf)):
   - What is process-based modeling?
   - GLM theory and applications
   - AED2 theory and examples for O2 and C
