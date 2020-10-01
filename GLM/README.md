@@ -6,7 +6,7 @@
 :spiral_calendar: October 14, 2020  
 :alarm_clock:     09:30 - 12:00 CDT  
 :busts_in_silhouette: Robert Ladwig, Aryan Adhlakha, Hilary Dugan & Paul Hanson    
-:computer: [Material](https://github.com/gsagleon/G21.5_GSA_workshop/tree/master/GLM)  
+:computer: [Material](https://github.com/robertladwig/GLM_workshop)  
 
 -----
 
@@ -35,7 +35,7 @@ Questions and problems:
 
 There are two paths to follow the workshop examples:
   # 1. Use Github and your local R setup
-  Clone and download files from this [Github repository](https://github.com/gsagleon/G21.5_GSA_workshop/tree/master/GLM). 
+  Clone and download files from this [Github repository](https://github.com/robertladwig/GLM_workshop). 
   You’ll need R (version >= 3.5), preferably a GUI of your choice (e.g., Rstudio) and these packages: 
   ``` 
   require(devtools)
@@ -43,8 +43,6 @@ There are two paths to follow the workshop examples:
   devtools::install_packages("hdugan/glmtools", ref = "ggplot_overhaul")
   install.packages("rLakeAnalyzer")
   install.packages("tidyverse")
-  install.packages("reshape2")
-  install.packages("lubridate")
   ```
   # 2. Use Docker
   To be sure that all the examples will *work* during the workshop, you can use a [container](https://hub.docker.com/r/hydrobert/glm-workshop) of all the material. I'll quote the Docker website here: 
