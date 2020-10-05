@@ -7,7 +7,7 @@
 :alarm_clock:     15:00-17:00 CEST 
 :busts_in_silhouette: Jorrit Mesman, Johannes Feldbauer, Tadhg Moore, Robert Ladwig   
 :computer: [Material](https://github.com/robertladwig/G21.5_GSA_workshop/tree/master/LakeEnsemblR)  
-:open_book: [Presentation](https://github.com/aemon-j/LakeEnsemblR)
+:octocat: [Github](https://github.com/aemon-j/LakeEnsemblR)
 
 -----
 
