@@ -1,5 +1,5 @@
 # Ensemble lake modelling with LakeEnsemblR
-<a href="url"><img src="GLM_hex.png" align="right" height="220" width="220" ></a>
+<a href="url"><img src="logo.png" align="right" height="220" width="220" ></a>
 
 -----
 
